@@ -51,12 +51,6 @@ import java.util.List;
 import java.util.Scanner;
 
 public class WarehouseRunner {
-    static List<String> id=new ArrayList<>();
-    static List<String> isim=new ArrayList<>();
-    static List<String> uretici=new ArrayList<>();
-    static List<Integer> miktar=new ArrayList<>();
-    static List<String> birim=new ArrayList<>();
-    static List<String> raf=new ArrayList<>();
 
     public static void main(String[] args) {
 
